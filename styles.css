@@ -76,3 +76,10 @@ figure {
   max-width: 700px;
   border-color: #c6c6c6;
 }
+
+footer {
+  font-size: 12px;
+  margin-left: 612px;
+  font-weight: 500;
+  margin-top: -10px;
+}
