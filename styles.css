@@ -34,6 +34,11 @@ h4 {
   padding-left: 55px;
 }
 
+#search-button {
+  margin-left: 220px;
+  margin-top: -55px;
+}
+
 p.temperature {
   position: relative;
   margin-top: 30px;
