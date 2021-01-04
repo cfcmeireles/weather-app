@@ -41,8 +41,8 @@ h4 {
 
 p.temperature {
   position: relative;
-  margin-top: 30px;
-  left: -31px;
+  margin-top: -55px;
+  left: 550px;
 }
 
 .card-deck .card {
@@ -73,7 +73,7 @@ figure {
 .forecast {
   margin-top: 30px;
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .weather-app {
@@ -103,4 +103,13 @@ li {
 
 li:first-letter {
   text-transform: capitalize;
+}
+
+.weather-app .active {
+  color: rgb(33, 33, 33);
+  cursor: default;
+}
+
+.weather-app .active:hover {
+  text-decoration: none;
 }
